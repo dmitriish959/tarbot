@@ -1,4 +1,5 @@
-# Tarirovka bot project 
+# Tarirovka bot project
 
 Ввод значений длинны отрезаемой трубки (в см) :
+
 - вывод MIN and MAX значения для обучения 
